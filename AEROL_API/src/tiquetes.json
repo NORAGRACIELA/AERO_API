@@ -1,0 +1,27 @@
+
+    [
+        {
+            "Id":"1",
+            "Fecha":"12/05/2022",
+            "Pasajero":"Fulano de Tal",
+            "Numero_de_vuelo":"2022",
+            "Descripcion":"Cartagena"
+        },
+        {
+            "Id":"2",
+            "Fecha":"15/05/2022",
+            "Pasajero":"Juan Ortega",
+            "Numero_de_vuelo":"2020",
+            "Descripcion":"Santa_marta"
+            
+        },
+        {
+            "Id":"23",
+            "Fecha":"04/08/2022",
+            "Pasajero":"Thomas Velez",
+            "Numero_de_vuelo":"2023",
+            "Descripcion":"San Andres"
+            
+        }
+    ]
+    
